@@ -10,7 +10,7 @@ public class Emprestimo {
     }
 
     public static double getTaxaDuasParcelas() {
-        return 0.5;
+        return 0.8;
     }
 
     public static double getTaxaTresParcelas() {
